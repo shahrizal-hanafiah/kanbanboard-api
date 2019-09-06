@@ -3,3 +3,5 @@
 ################################################################################
 
 /KanbanBoardAPI/KanbanBoardAPI/bin/Debug/netcoreapp2.2
+/KanbanBoardAPI/.vs/KanbanBoardAPI
+/KanbanBoardAPI/KanbanBoardAPI/obj
